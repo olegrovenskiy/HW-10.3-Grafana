@@ -32,4 +32,11 @@ node_filesystem_avail_bytes{device="/dev/sdb", fstype="ext4", instance="nodeexpo
 
 ![alerts](https://github.com/olegrovenskiy/HW-10.3-Grafana/blob/main/%D0%BF%D1%83%D0%BD%D0%BA%D1%82%203.png)
 
+## Задание 4
 
+Сохраните ваш Dashboard.
+Для этого перейдите в настройки Dashboard, выберите в боковом меню "JSON MODEL".
+Далее скопируйте отображаемое json-содержимое в отдельный файл и сохраните его.
+В решении задания - приведите листинг этого файла.
+
+Файл dashboard.json в данном репозитории
